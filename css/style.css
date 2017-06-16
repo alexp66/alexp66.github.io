@@ -205,6 +205,8 @@ nav li {
   width: 100%;
   margin: 0;
   display: flex;
+    width: 390px;
+  height: 390px;
 }
 
 .coursesboxtext {
